@@ -1,6 +1,6 @@
 name = "Rubidium Extra"
 filename = "rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
