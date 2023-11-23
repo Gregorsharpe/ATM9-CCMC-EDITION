@@ -812,7 +812,7 @@ hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
 
 [[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
-hash = "2dc175adea82eed270c7ab24209fde52d92033ac6e94d0f731f17acf7ae3093a"
+hash = "cd5fce69b611b5be624f626d80922e37a136e41ada192c349c2efde9e439a6b7"
 
 [[files]]
 file = "defaultconfigs/mahoutsukai-server.toml"
@@ -3054,6 +3054,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "6f84c68150a39cc4e7b1403e0796ad06b7095c20947e8cd0c30366368c443759"
 metafile = true
 
 [[files]]
