@@ -140,7 +140,7 @@
 			# You can override this with FTB Ranks using ftbessentials.home.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 0
+			warmup: 20
 		}
 		
 		# Allows players to teleport to a random point in the Wilderness
@@ -150,7 +150,7 @@
 			# You can override this with FTB Ranks using ftbessentials.rtp.cooldown
 			# Default: 600
 			# Range: 0 ~ 604800
-			cooldown: 7200
+			cooldown: 86400
 			
 			# Blacklisted dimension ID's for /rtp (player *must not* be in any of these dimensions)
 			# Wildcarded dimensions (e.g. 'somemod:*') are supported
@@ -160,7 +160,7 @@
 			# Whitelisted dimension ID's for /rtp (if non-empty, player *must* be in one of these dimensions)
 			# Wildcarded dimensions (e.g. 'somemod:*') are supported
 			# Default: []
-			dimension_whitelist: [ ]
+			dimension_whitelist: ["minecraft:overworld"]
 			
 			# Default: true
 			enabled: true
@@ -168,7 +168,7 @@
 			# /rtp max distance from spawn point
 			# Default: 25000
 			# Range: 0 ~ 30000000
-			max_distance: 25000
+			max_distance: 30000
 			
 			# Number of tries before /rtp gives up
 			# Default: 100
@@ -178,20 +178,20 @@
 			# /rtp min distance from spawn point
 			# Default: 500
 			# Range: 0 ~ 30000000
-			min_distance: 500
+			min_distance: 1000
 			
 			# Warm-up time before /rtp command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.rtp.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 0
+			warmup: 60
 		}
 		spawn: {
 			# Cooldown between /spawn commands (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.spawn.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 10
+			cooldown: 120
 			
 			# Default: true
 			enabled: true
@@ -200,7 +200,7 @@
 			# You can override this with FTB Ranks using ftbessentials.spawn.warmup
 			# Default: 0
 			# Range: 0 ~ 604800
-			warmup: 0
+			warmup: 20
 		}
 		
 		# Allows players to create requests to teleport to other users on the server,
@@ -210,10 +210,10 @@
 			# You can override this with FTB Ranks using ftbessentials.tpa.cooldown
 			# Default: 10
 			# Range: 0 ~ 604800
-			cooldown: 600
+			cooldown: 10
 			
 			# Default: true
-			enabled: true
+			enabled: false
 			
 			# Warm-up time before /tpa command executes (in seconds)
 			# You can override this with FTB Ranks using ftbessentials.tpa.warmup
