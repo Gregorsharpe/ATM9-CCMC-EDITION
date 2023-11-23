@@ -787,6 +787,10 @@ file = "config/silentgear-common.toml"
 hash = "863e469ebe2fc1ef87dc47a26daea3f75f09c4c6c4cfaea004a6b45d514b2dc1"
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "998ea8620362ac027d2a5f4e2794a10f4714434d9a04434cec39f7773e039515"
+
+[[files]]
 file = "config/theoneprobe-common.toml"
 hash = "8b7d24f345086ae8bfc81352d48b258f22343725eef0c61c606d9b0140543079"
 
@@ -797,6 +801,10 @@ hash = "0710592a1b9b0a7603a4a3bb2d0b0e1dd0108f358985d0031ae581978caac55e"
 [[files]]
 file = "config/voidscape-common.toml"
 hash = "70195ff0b03b6275d1881030661e24dc43f857e91c387a4ae932e124fd86e2f4"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "c64c68f1b3214c9085638f5cbcd10e75ae3cad1703d358c6914af380caecb8c8"
 
 [[files]]
 file = "defaultconfigs/caupona-server.toml"
@@ -2148,7 +2156,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+hash = "c51928175be6640cc4fc40a9a0b92454f4ad50c4ff93c8db4c802b29389a45a6"
 metafile = true
 
 [[files]]
@@ -2248,7 +2256,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
+hash = "cf702349b89066726963844ff123a21f7a56c7201dde09cdcffa84da62d41e0d"
 metafile = true
 
 [[files]]
@@ -2378,7 +2386,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorful-hearts.pw.toml"
-hash = "65fc485514e9ba280b10c51f86efdb439a8f0ec48a4bc9e5a7fb20f59000a0d2"
+hash = "3a62250bb9ba57ee18406c0d083b259d17cfa139fa173c9631ff0bcc67431901"
 metafile = true
 
 [[files]]
@@ -2408,7 +2416,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
@@ -2533,7 +2541,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "a7f86043961b9645bd52000b0083193ca8dda09cc30e53810019491b57f33d57"
+hash = "c81fb3e0231a9684db4d5e76eb905d7368997aa9dbadb731d421094c7f476817"
 metafile = true
 
 [[files]]
@@ -2568,7 +2576,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6bff28fd3a3fa5e2d3a4ab16ca9db00b86fa5b787117b22c2f7a1a921c09eb34"
+hash = "a3085decb5b25159bed5030fd302769633970ab3d6951afd1cc375eb36c7cff9"
 metafile = true
 
 [[files]]
@@ -2618,7 +2626,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
+hash = "f1608653df1d9fb6de92d059aa095f41be77d3384c13fb34b4af443e0dd5f8ee"
 metafile = true
 
 [[files]]
@@ -2708,7 +2716,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
-hash = "4d6f14a4a81698e97931599a0812e292f779e8acc385a2bd5ab747de92d64464"
+hash = "7c949569c998a0bd55287a9841865aaff6672ed24f1ddb7cdba028ccdb701804"
 metafile = true
 
 [[files]]
@@ -3228,7 +3236,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
+hash = "6b67eaeeb9077a252fe10072c5d39a5d942491e65bed2f82c37c17c69ceeb2fe"
 metafile = true
 
 [[files]]
@@ -3333,7 +3341,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
+hash = "a833cd3187adb57b3ea70262b82b17d65efe21655f9eeaefede57df74ddb0915"
 metafile = true
 
 [[files]]
@@ -3348,7 +3356,7 @@ metafile = true
 
 [[files]]
 file = "mods/packmenu.pw.toml"
-hash = "f0f3e5e97bd3ea4a32821b1ba1e49c661a54df5220fb5f3e1d94fe05bdf66447"
+hash = "6fff5f32aac58aa73760a49407523ddfdd8e364e04950d9766bd25b5868d9881"
 metafile = true
 
 [[files]]
@@ -3538,7 +3546,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "c2714b94d85ac07f8db796e0d6e43a508484c3dabad399d7227134434bbce9a8"
+hash = "b50ecc9f944ffaf4ccb776d427c27d137a3c2a26dffaa950562c240892037513"
 metafile = true
 
 [[files]]
@@ -3598,7 +3606,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "e107f5a9bbbec3600e4437e4453107028a29031086d9e5cc456f06192d1ce7c7"
+hash = "9a5ee82724e8dedd1ef52d884e73da6f6edf276b7fff22b8a47f64b41af34432"
 metafile = true
 
 [[files]]
@@ -3753,7 +3761,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+hash = "34ae3ed4e00f9a9d8483b9cb1cb48ea45b43d60e2aaf2f03dc01d85f9b954f93"
 metafile = true
 
 [[files]]
