@@ -823,6 +823,10 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "cd5fce69b611b5be624f626d80922e37a136e41ada192c349c2efde9e439a6b7"
 
 [[files]]
+file = "defaultconfigs/lostcities-server.toml"
+hash = "896e43d9bac4ba3f7548319801175c87aa187c8c7cf32c4e5ed80932219d5e7a"
+
+[[files]]
 file = "defaultconfigs/mahoutsukai-server.toml"
 hash = "9c5170998ca0f6e61bc959ad0a736062ec538b07df99234133408a12643bb5c2"
 
