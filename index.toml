@@ -31,6 +31,30 @@ file = "config/Mekanism/world.toml"
 hash = "afebb69860ac0c07f24cfcadedff2a96cdfb35af6ab531b1000a893b1e127e06"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "c63f426eaa6a6a7aa7aae6fa3caa8d4f5e0383e62958c3c209c600d0bf96f483"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "24efe8fe878bdae3323f2645c3f645cee1c41c290ed1a684eda1a4bbb44b1efa"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "30191adaf08a85d7438067f10603642a8668098cfd92e72b9aea91feb71cd6ea"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/ae2/common.json"
 hash = "755e98a0ae97dbfa699ac0298d03aad54694faa07bb3620fe53a456ee22b4a6a"
 
