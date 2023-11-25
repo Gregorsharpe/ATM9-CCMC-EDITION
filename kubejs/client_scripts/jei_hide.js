@@ -39,4 +39,6 @@ JEIEvents.hideItems(event => {
   cropRemove.forEach(id => {
     event.hide(`mysticalagriculture:${id}_seeds`)
   })
+
+  event.hide(Item.of('ae2:facade').ignoreNBT())
 })

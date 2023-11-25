@@ -1056,7 +1056,7 @@ hash = "748bbbc8cda5aa86f2d053f40e9e191093c18d71c731a148eab5894c062cde16"
 
 [[files]]
 file = "kubejs/client_scripts/jei_hide.js"
-hash = "ae99466e3654e2d99b8fd98df6dc8ba5ba25866f10efde0b54abbe449bfa2b5f"
+hash = "1654c759d78053fa4cdb94eb0406d38964c9f4fcdd8fb30f55328ce2b73e29b2"
 
 [[files]]
 file = "kubejs/client_scripts/jei_info.js"
@@ -2392,6 +2392,11 @@ metafile = true
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "495aede00b5661e9e0bb86082748bdf2e9832759f0d0366f6bbf9f7d22110333"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "7745fdbaa3f28dff715aa21b924ee940982fe47548b8b2bad005caa02178301b"
 metafile = true
 
 [[files]]
