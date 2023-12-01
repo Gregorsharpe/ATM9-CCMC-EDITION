@@ -3465,6 +3465,11 @@ hash = "efb6e32d08acb33cc00920098a5bfa7dd88cb05fd881f8bb2219e87e02bb66d0"
 metafile = true
 
 [[files]]
+file = "mods/prometheus-exporter.pw.toml"
+hash = "b345b6e3d68074eeac9fa59f73d8d57b6dfe55b7d1cc21d6a72225715c7e8ada"
+metafile = true
+
+[[files]]
 file = "mods/pylons.pw.toml"
 hash = "125067f641242e3ed5a965088d670cb3ab2d4cc10375e1d71f6f10216ff4ca28"
 metafile = true
