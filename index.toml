@@ -828,7 +828,7 @@ hash = "70195ff0b03b6275d1881030661e24dc43f857e91c387a4ae932e124fd86e2f4"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "2206b9e94c7a8eb7c85fdd9e42fa708b5c1871f29586910ddb5a24de2d3ddafa"
+hash = "2137180ac8c62d05b2fc7b6e603fd3506d8c67922c2670de611fd510659596c3"
 
 [[files]]
 file = "defaultconfigs/caupona-server.toml"
