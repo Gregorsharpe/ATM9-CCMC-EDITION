@@ -7,7 +7,7 @@
 	blocksPerXpLevel = 500
 	#The minimum base xp cost (may be subceeded by multipliers defined below)
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	minimumBaseXpCost = 1
+	minimumBaseXpCost = 2
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	maximumBaseXpCost = 10
@@ -28,7 +28,7 @@
 	waystoneXpCostMultiplier = 1
 	#The multiplier applied to the base xp cost when teleporting from one sharestone to another.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	sharestoneXpCostMultiplier = 0
+	sharestoneXpCostMultiplier = 0.1
 	#The multiplier applied to the base xp cost when teleporting from a portstone.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
 	portstoneXpCostMultiplier = 0.5
@@ -60,7 +60,7 @@
 	#List of dimensions that players are not allowed to warp cross-dimension from and to. Only used if dimensionalWarpAllowList is empty.
 	dimensionalWarpDenyList = []
 	#Set to true if players should be able to teleport between waystones by simply right-clicking a waystone.
-	allowWaystoneToWaystoneTeleport = false
+	allowWaystoneToWaystoneTeleport = true
 	#Set to false to allow non-creative players to make waystones globally activated for all players.
 	globalWaystoneSetupRequiresCreativeMode = true
 
