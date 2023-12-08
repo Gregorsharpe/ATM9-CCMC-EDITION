@@ -2269,6 +2269,10 @@ file = "mods/DarkModeEverywhere-1.20.1-1.2.2.jar"
 hash = "680fdd796814827bf010e0ded103c13f1f358e1fc6a476f2ff0d6b32029f1a8e"
 
 [[files]]
+file = "mods/Structory_1.20.2_v1.3.3.jar"
+hash = "81ddf5226ee2097f2620c8e8b08ea3b96955d4b301e461a606dc76b41c46caf5"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "4374330e6a885f84e16947851d9e37ec30f4e0fd431487cd934d56b1b24dc58b"
 metafile = true
@@ -2354,11 +2358,6 @@ hash = "4b8e579fdf7a541a3987f14220991a57ad28ae4e7cc1add3163b4a2478ebd1fc"
 metafile = true
 
 [[files]]
-file = "mods/all-the-wizard-gear.pw.toml"
-hash = "deb28ae69753f494b5d176ba736a83cba033c969577737bf11603ebd0f58544f"
-metafile = true
-
-[[files]]
 file = "mods/allthecompressed.pw.toml"
 hash = "c75636e54bd8b535ded951be0ae3fa5b6af91846a5915f008c3fc148143f4615"
 metafile = true
@@ -2369,8 +2368,8 @@ hash = "e2af4f855d32367aa2e6d88586b5f521886b7bbb3a9983d46be4d0caed78d17a"
 metafile = true
 
 [[files]]
-file = "mods/allthewizardgear-1.20.1-1.0.8.jar"
-hash = "dd7d70ff8f9449c7a54e4f4071069ba436c7868e4674cf9df985c5ebce10ee71"
+file = "mods/allthewizardgear-1.20.1-1.0.9.jar"
+hash = "4ae0420f7cc92229e4c0b7eaa83ea8973fe1d403db5aafd227017d49e4360182"
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
@@ -2788,11 +2787,6 @@ hash = "95ad0a434cc7a641c93668fbc5e8396fbc0f832483f17f1ea022f8f717a112b1"
 metafile = true
 
 [[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "a7f86043961b9645bd52000b0083193ca8dda09cc30e53810019491b57f33d57"
-metafile = true
-
-[[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "b61daed4761340828464f28f2b95b1b64d62d6868852a9f4b005a549a75a3d29"
 metafile = true
@@ -2933,9 +2927,8 @@ hash = "18ccf65d938b5d5c3a6d002d43af0414b8e60bbf8e833bbf4db86f25891f80b5"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
-metafile = true
+file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
 [[files]]
 file = "mods/everythingcopper.pw.toml"
@@ -3018,9 +3011,8 @@ hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
 metafile = true
 
 [[files]]
-file = "mods/findme.pw.toml"
-hash = "d4527228e08d8ad7d60341f86c597067e08c398a0ab828610ebef8ee018a4ee1"
-metafile = true
+file = "mods/findme-3.1.0-forge.jar"
+hash = "196f6a8b0afcdbc5c15948f70137a9cb77f1a88a70ddf8a1345dff3416e45110"
 
 [[files]]
 file = "mods/flib.pw.toml"
@@ -3093,9 +3085,8 @@ hash = "1f46cc8135d44d698a6f90877ce85355fedd79f19fd9461c331c9c23b17004fe"
 metafile = true
 
 [[files]]
-file = "mods/functional-storage.pw.toml"
-hash = "2c4513f46e874f71f24a803b69f7299b0b42d4a1dfded10cbd81ce60a8acc88b"
-metafile = true
+file = "mods/functionalstorage-1.20.1-1.2.6.jar"
+hash = "8b3c72afb641de276c5c475ba2891e6e2899f15cd7e60d4711cd9068f988562b"
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
@@ -3158,9 +3149,8 @@ hash = "2f642ad048cb3ba04ffede51488ca1d403bb4a1d7fcd651a48d31d9c162234f5"
 metafile = true
 
 [[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "f81003ebd1d5056f233996339f393e50d11f789e206572ca11a060ac66f8af4e"
-metafile = true
+file = "mods/industrial-foregoing-1.20.1-3.5.9.jar"
+hash = "8a8f3a9d06123124384bbd146294c3e0e0a431f1ce0e4b9d29853c75cac5a2da"
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
@@ -3493,11 +3483,6 @@ hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "e60cf1198500d7664b621be42a6fb1986e3830f009e08b7f4696240535e6e175"
-metafile = true
-
-[[files]]
 file = "mods/more-red.pw.toml"
 hash = "bb8dd1fa0f1ee88f8f947a2ab2101c414cb2808dac81c21ac66c8ad32cdfec29"
 metafile = true
@@ -3506,6 +3491,10 @@ metafile = true
 file = "mods/morejs.pw.toml"
 hash = "ebb646504f3b431f027252c06563d2bdaff777f9082328bd55a6ea7102996a88"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.22.1-mc1.20.jar"
+hash = "82458b7069cd00a6fe15cbe7b0b0bda31e87cdc5e81b81c8f5362a3fd7f4619b"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -3818,14 +3807,13 @@ hash = "a0afbc792737b9ec6a620a79f5e911a67416122d3bef126b9acd0fac0a14d379"
 metafile = true
 
 [[files]]
-file = "mods/rs-requestify.pw.toml"
-hash = "852aae4cac2057a25eed55d5ab00b91a4dcc8603bf63168cfcfdb36ad7b41ddc"
-metafile = true
-
-[[files]]
 file = "mods/rsinfinitybooster.pw.toml"
 hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
 metafile = true
+
+[[files]]
+file = "mods/rsrequestify-1.20.1-2.3.3.jar"
+hash = "dbf2c11fa5ae9c274c114e14435f015584a8545b77f8d7af739164f66d3601ab"
 
 [[files]]
 file = "mods/runelic.pw.toml"
@@ -3938,11 +3926,6 @@ hash = "80b8605c5304f2bc75ab3dc81555fd586fad163d9c12cb81269aa58b9745dadd"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
-metafile = true
-
-[[files]]
 file = "mods/structure-compass.pw.toml"
 hash = "358b2dcb7c58abda831ee3dfa265591820074caa3db3bde0402f4a241364a2af"
 metafile = true
@@ -4033,9 +4016,8 @@ hash = "247f506108f7d7fb875e4353377e56b5a3081dd9858586f786f51b89167e1bc0"
 metafile = true
 
 [[files]]
-file = "mods/titanium.pw.toml"
-hash = "2ba1ba01bd1be7ad18d88cc232b5ab23e8307b66b80bc6a62eb9313619f05127"
-metafile = true
+file = "mods/titanium-1.20.1-3.8.23.jar"
+hash = "ceef24db66bc12f1d0697ab871adcbbebf292b0640f594d330eaafaaceeca551"
 
 [[files]]
 file = "mods/toast-control.pw.toml"
@@ -4053,9 +4035,8 @@ hash = "f2c09150e959e4b0d303eecb4b703b4a74a33d07cefbacd9ca0ad480de19ca03"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "42135c5e65617571cca69bd95df510355b13d62d6f6190ff71ed5d81a87c18a0"
-metafile = true
+file = "mods/totw_modded-1.0.2-1.20.1.jar"
+hash = "dcb2fb7e6999dcc07afd64fc0aac40083623e230a3c8025cf15bb333d833e581"
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
