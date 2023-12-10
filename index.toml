@@ -921,6 +921,10 @@ file = "defaultconfigs/fluxnetworks-server.toml"
 hash = "dd7e331e69a0f8e454f439ff47c81692193af111c6af26cdd53904b1daecddf7"
 
 [[files]]
+file = "defaultconfigs/ftbchunks-world.snbt"
+hash = "8d978caf5221285a8c2700a2f6ee25772401decbbbb72db18fc51d6d6e7f886d"
+
+[[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "cd5fce69b611b5be624f626d80922e37a136e41ada192c349c2efde9e439a6b7"
 
